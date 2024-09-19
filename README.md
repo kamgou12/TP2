@@ -1,19 +1,26 @@
-# TP2
-# Travail Pratique 2
+## INSTALLATION DES CONTENEURS 
 
-**Nom du projet** : Travail Pratique 2 - Docker et Nginx
+# Date : 18 septembre 2024
 
-**Date** : 18 septembre 2024
+### Description du projet 
+Démontrer la creations,l'installations et gestions  d'un systèmes de conteneurs 
 
-**Description du projet** :
-Ce projet a pour objectif de construire une image Docker contenant un serveur Nginx pour servir une page HTML simple. Il comprend :
-- Un fichier `Dockerfile` pour créer une image à partir d'Ubuntu/Nginx
-- Un fichier `index.html` qui sera utilisé comme contenu à servir par Nginx
-- Les étapes pour construire et exécuter le conteneur
+## Section1 etape2. 
 
-**Collaborateurs** :
-- Le professeur a été ajouté en tant que collaborateur au dépôt.
 
-**Sites de références** :
-- [Documentation Docker](https://docs.docker.com/)
-- [Guide Markdown GitHub](https://guides.github.com/features/mastering-markdown/)
+# création d'un réseau virtuel;
+
+
+![reseau_virtuel](TP2\images\Pmonreseau.PNG)
+
+# creation des conteneurs
+
+![conteneurs](TP2\images\P3Conteneur.PNG)
+
+
+
+# les journaux de apache
+![liason](TP2\images\plogsApache.PNG)
+
+
+
